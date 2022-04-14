@@ -14,4 +14,4 @@ This is the link fro the resume
 https://docs.google.com/document/d/1p98u76xnM7rKaAFFx331CuwSwJh5OrJ6hVOhMYxxefA/edit#
 
 this is the link for the interviewing doc
-https://docs.google.com/document/d/1tTxfzhDb3S5NlY8mYnfUpO01CNXupln78txXhNWtO1M/
+https://docs.google.com/document/d/1tTxfzhDb3S5NlY8mYnfUpO01CNXupln78txXhN
